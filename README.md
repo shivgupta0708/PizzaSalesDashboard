@@ -1,3 +1,5 @@
 # PizzaSalesDashboard
 Developed an interactive dashboard called 'Pizza Sales Report' using Power BI and SQL. The main goal was to provide the restaurant owner with insights into sales trends, top-selling pizzas, and overall performance to help them make better business decisions. What made this project unique is the two-way validation approach—
 I used SQL to query the data based on customer requirements and then cross-validated it with Power BI visualizations.
+In Power BI, I created a set of KPIs using card visuals to display key business metrics such as total revenue, total pizzas sold, average order value, and average pizzas per order. For visualizing trends, I used a column chart to show daily order trends and a line chart for monthly trends. I also added a donut chart to show the percentage of sales by pizza category and size, and a funnel chart to display total pizzas sold by category. Filters for pizza category and date allow the user to interactively control the data displayed on the entire dashboard.
+![image](https://github.com/user-attachments/assets/6668bfaa-c15e-443d-a3e0-22d999540467)
